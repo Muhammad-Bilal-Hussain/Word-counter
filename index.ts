@@ -15,4 +15,4 @@ let answer:{
 
 let word = answer.sentance.trim().split(" ")
 console.log(word)
-console.log(`your word counter is ${word.length}`);
+console.log(`your words count is ${word.length}`);
