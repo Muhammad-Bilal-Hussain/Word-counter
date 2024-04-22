@@ -7,7 +7,7 @@ let answer:{
     [
         {
             name:"sentance",
-            message:"please enter your sentance and counter to word",
+            message:"please enter your sentance what you want those count words",
             type:"input"
         }
     ]
